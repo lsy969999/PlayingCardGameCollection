@@ -7,3 +7,8 @@ npm install @react-navigation/native-stack
 #vectorIcon INSTALL
 ##doc: https://github.com/oblador/react-native-vector-icons
 npm install --save react-native-vector-icons
+
+#reactNativeElement
+##doc: https://reactnativeelements.com/docs/installation
+npm install @rneui/themed @rneui/base
+npm install react-native-safe-area-context
