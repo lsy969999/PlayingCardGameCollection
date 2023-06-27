@@ -12,3 +12,7 @@ npm install --save react-native-vector-icons
 ##doc: https://reactnativeelements.com/docs/installation
 npm install @rneui/themed @rneui/base
 npm install react-native-safe-area-context
+
+#react-native-reanimated
+##doc: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/installation
+npm install react-native-reanimated
